@@ -13,7 +13,7 @@ Restart teaches you not only how to use tools but also why they matter in real-w
 - Acts as a personal knowledge base I can revisit anytime.
 - Becomes a portfolio to showcase my labs, notes, and projects to recruiters.
 - Helps me improve professional writing and technical communication skills.
-
+dctrfh
 ## Topics
 
 - [Compute](./compute/topic-notes.md)
